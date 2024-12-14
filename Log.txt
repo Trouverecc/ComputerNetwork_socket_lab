@@ -1,0 +1,113 @@
+[Date: Mon, 03 Jun 2024 15:09:30 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Mon, 03 Jun 2024 15:09:30 UTC][client: 127.0.0.1:38636]200 OK, responded for request GET
+[Date: Mon, 03 Jun 2024 15:09:30 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Mon, 03 Jun 2024 15:09:30 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Mon, 03 Jun 2024 15:09:30 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Mon, 03 Jun 2024 15:09:30 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Mon, 03 Jun 2024 15:09:30 UTC][client: 127.0.0.1:38636]HTTP/1.1 400 Bad request
+[Date: Mon, 03 Jun 2024 15:18:08 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Mon, 03 Jun 2024 15:18:08 UTC][client: 127.0.0.1:38636]200 OK, responded for request GET
+[Date: Mon, 03 Jun 2024 15:18:08 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Mon, 03 Jun 2024 15:18:08 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Mon, 03 Jun 2024 15:18:08 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Mon, 03 Jun 2024 15:18:08 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Mon, 03 Jun 2024 15:18:08 UTC][client: 127.0.0.1:38636]HTTP/1.1 400 Bad request
+[Date: Mon, 03 Jun 2024 15:30:21 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Mon, 03 Jun 2024 15:30:21 UTC][client: 127.0.0.1:38636]200 OK, responded for request GET
+[Date: Mon, 03 Jun 2024 15:30:21 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Mon, 03 Jun 2024 15:30:21 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Mon, 03 Jun 2024 15:30:21 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Mon, 03 Jun 2024 15:30:21 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Mon, 03 Jun 2024 15:30:21 UTC][client: 127.0.0.1:38636]HTTP/1.1 400 Bad request
+[Date: Wed, 05 Jun 2024 12:48:26 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 12:48:26 UTC][client: 127.0.0.1:38636]200 OK, responded for request GET
+[Date: Wed, 05 Jun 2024 12:48:26 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Wed, 05 Jun 2024 12:48:26 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Wed, 05 Jun 2024 12:48:26 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 12:48:26 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 12:48:26 UTC][client: 127.0.0.1:38636]HTTP/1.1 400 Bad request
+[Date: Wed, 05 Jun 2024 12:48:26 UTC][client: 127.0.0.1:38636]HTTP/1.1 400 Bad request
+[Date: Wed, 05 Jun 2024 12:48:26 UTC][client: 127.0.0.1:38636]200 OK, responded for request GET
+[Date: Wed, 05 Jun 2024 12:48:26 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Wed, 05 Jun 2024 12:48:26 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Wed, 05 Jun 2024 12:48:26 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 12:48:26 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 12:48:26 UTC][client: 127.0.0.1:38636]HTTP/1.1 400 Bad request
+[Date: Wed, 05 Jun 2024 12:48:26 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 12:48:26 UTC][client: 127.0.0.1:38636]200 OK, responded for request GET
+[Date: Wed, 05 Jun 2024 12:55:35 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 12:55:35 UTC][client: 127.0.0.1:38636]200 OK, responded for request GET
+[Date: Wed, 05 Jun 2024 12:55:35 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Wed, 05 Jun 2024 12:55:35 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Wed, 05 Jun 2024 12:55:35 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 12:55:35 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 12:55:35 UTC][client: 127.0.0.1:38636]HTTP/1.1 400 Bad request
+[Date: Wed, 05 Jun 2024 12:55:35 UTC][client: 127.0.0.1:38636]HTTP/1.1 400 Bad request
+[Date: Wed, 05 Jun 2024 12:55:35 UTC][client: 127.0.0.1:38636]200 OK, responded for request GET
+[Date: Wed, 05 Jun 2024 12:55:35 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Wed, 05 Jun 2024 12:55:35 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Wed, 05 Jun 2024 12:55:35 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 12:55:35 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 12:55:35 UTC][client: 127.0.0.1:38636]HTTP/1.1 400 Bad request
+[Date: Wed, 05 Jun 2024 12:55:35 UTC][client: 127.0.0.1:38636]HTTP/1.1 400 Bad request
+[Date: Wed, 05 Jun 2024 12:55:35 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 12:55:35 UTC][client: 127.0.0.1:38636]200 OK, responded for request GET
+[Date: Wed, 05 Jun 2024 12:58:09 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 12:58:09 UTC][client: 127.0.0.1:38636]200 OK, responded for request GET
+[Date: Wed, 05 Jun 2024 12:58:09 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Wed, 05 Jun 2024 12:58:09 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Wed, 05 Jun 2024 12:58:09 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 12:58:09 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 12:58:09 UTC][client: 127.0.0.1:38636]HTTP/1.1 400 Bad request
+[Date: Wed, 05 Jun 2024 12:58:09 UTC][client: 127.0.0.1:38636]HTTP/1.1 400 Bad request
+[Date: Wed, 05 Jun 2024 12:58:09 UTC][client: 127.0.0.1:38636]200 OK, responded for request GET
+[Date: Wed, 05 Jun 2024 12:58:09 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Wed, 05 Jun 2024 12:58:09 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Wed, 05 Jun 2024 12:58:09 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 12:58:09 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 12:58:09 UTC][client: 127.0.0.1:38636]HTTP/1.1 400 Bad request
+[Date: Wed, 05 Jun 2024 12:59:09 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 12:59:09 UTC][client: 127.0.0.1:38636]200 OK, responded for request GET
+[Date: Wed, 05 Jun 2024 12:59:09 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Wed, 05 Jun 2024 12:59:09 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Wed, 05 Jun 2024 12:59:09 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 12:59:09 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 12:59:09 UTC][client: 127.0.0.1:38636]HTTP/1.1 400 Bad request
+[Date: Wed, 05 Jun 2024 12:59:09 UTC][client: 127.0.0.1:38636]HTTP/1.1 400 Bad request
+[Date: Wed, 05 Jun 2024 12:59:09 UTC][client: 127.0.0.1:38636]200 OK, responded for request GET
+[Date: Wed, 05 Jun 2024 12:59:09 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Wed, 05 Jun 2024 12:59:09 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Wed, 05 Jun 2024 12:59:09 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 12:59:09 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 12:59:09 UTC][client: 127.0.0.1:38636]HTTP/1.1 400 Bad request
+[Date: Wed, 05 Jun 2024 13:00:40 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 13:00:40 UTC][client: 127.0.0.1:38636]200 OK, responded for request GET
+[Date: Wed, 05 Jun 2024 13:00:40 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Wed, 05 Jun 2024 13:00:40 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Wed, 05 Jun 2024 13:00:40 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 13:00:40 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 13:00:40 UTC][client: 127.0.0.1:38636]HTTP/1.1 400 Bad request
+[Date: Wed, 05 Jun 2024 13:00:40 UTC][client: 127.0.0.1:38636]HTTP/1.1 400 Bad request
+[Date: Wed, 05 Jun 2024 13:00:40 UTC][client: 127.0.0.1:38636]200 OK, responded for request GET
+[Date: Wed, 05 Jun 2024 13:00:40 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Wed, 05 Jun 2024 13:00:40 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Wed, 05 Jun 2024 13:00:40 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 13:00:40 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 13:00:40 UTC][client: 127.0.0.1:38636]HTTP/1.1 400 Bad request
+[Date: Wed, 05 Jun 2024 13:00:40 UTC][client: 127.0.0.1:38636]HTTP/1.1 400 Bad request
+[Date: Wed, 05 Jun 2024 13:00:40 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 13:01:20 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 13:01:20 UTC][client: 127.0.0.1:38636]200 OK, responded for request GET
+[Date: Wed, 05 Jun 2024 13:01:20 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Wed, 05 Jun 2024 13:01:20 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Wed, 05 Jun 2024 13:01:20 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 13:01:20 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 13:01:20 UTC][client: 127.0.0.1:38636]HTTP/1.1 400 Bad request
+[Date: Wed, 05 Jun 2024 13:01:20 UTC][client: 127.0.0.1:38636]HTTP/1.1 400 Bad request
+[Date: Wed, 05 Jun 2024 13:01:20 UTC][client: 127.0.0.1:38636]200 OK, responded for request GET
+[Date: Wed, 05 Jun 2024 13:01:20 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Wed, 05 Jun 2024 13:01:20 UTC][client: 127.0.0.1:38636]HTTP/1.1 505 HTTP Version Not Supported
+[Date: Wed, 05 Jun 2024 13:01:20 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 13:01:20 UTC][client: 127.0.0.1:38636]HTTP/1.1 501 Not Implemented
+[Date: Wed, 05 Jun 2024 13:01:20 UTC][client: 127.0.0.1:38636]HTTP/1.1 400 Bad request
+[Date: Wed, 05 Jun 2024 13:01:20 UTC][client: 127.0.0.1:38636]HTTP/1.1 400 Bad request
